@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#nav-search-bar-form\"}\n  (Session info: chrome=101.0.4951.54)",
+  "stacktrace": "Backtrace:\n\tOrdinal0 [0x008BB8F3+2406643]\n\tOrdinal0 [0x0084AF31+1945393]\n\tOrdinal0 [0x0073C748+837448]\n\tOrdinal0 [0x007692E0+1020640]\n\tOrdinal0 [0x0076957B+1021307]\n\tOrdinal0 [0x00796372+1205106]\n\tOrdinal0 [0x007842C4+1131204]\n\tOrdinal0 [0x00794682+1197698]\n\tOrdinal0 [0x00784096+1130646]\n\tOrdinal0 [0x0075E636+976438]\n\tOrdinal0 [0x0075F546+980294]\n\tGetHandleVerifier [0x00B29612+2498066]\n\tGetHandleVerifier [0x00B1C920+2445600]\n\tGetHandleVerifier [0x00954F2A+579370]\n\tGetHandleVerifier [0x00953D36+574774]\n\tOrdinal0 [0x00851C0B+1973259]\n\tOrdinal0 [0x00856688+1992328]\n\tOrdinal0 [0x00856775+1992565]\n\tOrdinal0 [0x0085F8D1+2029777]\n\tBaseThreadInitThunk [0x74F3FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x76FD7A7E+286]\n\tRtlGetAppContainerNamedObjectPath [0x76FD7A4E+238]\n"
+}

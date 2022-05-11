@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "div.a-section.as-title-block:nth-child(1) h2.as-title-block-left span.a-color-base"
+}
