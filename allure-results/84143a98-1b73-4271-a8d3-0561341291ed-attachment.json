@@ -1,5 +1,0 @@
-{
-  "error": "no such element",
-  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"div.text-h5.text-center\"}\n  (Session info: chrome=101.0.4951.54)",
-  "stacktrace": "Backtrace:\n\tOrdinal0 [0x0057B8F3+2406643]\n\tOrdinal0 [0x0050AF31+1945393]\n\tOrdinal0 [0x003FC748+837448]\n\tOrdinal0 [0x004292E0+1020640]\n\tOrdinal0 [0x0042957B+1021307]\n\tOrdinal0 [0x00456372+1205106]\n\tOrdinal0 [0x004442C4+1131204]\n\tOrdinal0 [0x00454682+1197698]\n\tOrdinal0 [0x00444096+1130646]\n\tOrdinal0 [0x0041E636+976438]\n\tOrdinal0 [0x0041F546+980294]\n\tGetHandleVerifier [0x007E9612+2498066]\n\tGetHandleVerifier [0x007DC920+2445600]\n\tGetHandleVerifier [0x00614F2A+579370]\n\tGetHandleVerifier [0x00613D36+574774]\n\tOrdinal0 [0x00511C0B+1973259]\n\tOrdinal0 [0x00516688+1992328]\n\tOrdinal0 [0x00516775+1992565]\n\tOrdinal0 [0x0051F8D1+2029777]\n\tBaseThreadInitThunk [0x74F3FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x76FD7A7E+286]\n\tRtlGetAppContainerNamedObjectPath [0x76FD7A4E+238]\n"
-}
